@@ -230,13 +230,13 @@ Message.showColorized(MessageVariant.Info, "Available actions");
 
 console.log("\n");
 
-console.log("list – show all users");
+console.log("list - show all users");
 
-console.log("add – add new user to the list");
+console.log("add - add new user to the list");
 
-console.log("remove – remove user from the list");
+console.log("remove - remove user from the list");
 
-console.log("quit – quit the app");
+console.log("quit - quit the app");
 
 console.log("\n");
 
