@@ -1,4 +1,4 @@
-const consola = require('consola')
+const consola = require('consola');
 
 const inquirer = require('inquirer');
 
